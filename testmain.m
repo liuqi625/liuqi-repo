@@ -23,3 +23,5 @@
 % imfts=zz_getimfeature(I);
 
 spfts=zz_getspfeature(imfts,imsegs);
+
+testrevert;
